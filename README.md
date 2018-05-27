@@ -1,2 +1,2 @@
-# thanksgivinganalysis
-Simple analysis on 2015 Thanksgiving data from FiveThirtyEight
+# Thanksgiving Analysis
+Simple analysis of [2015 Thanksgiving dataset from FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015).
